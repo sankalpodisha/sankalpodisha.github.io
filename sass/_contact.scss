@@ -2,7 +2,7 @@
   Contact Widget
 -----------------------*/
 .contact-widget {
-  background: #$background;
+  background: $background;
   padding-bottom: 70px;
 }
 
@@ -46,7 +46,7 @@
   Contact
 -----------------------*/
 .contact {
-  background: #$background;
+  background: $background;
   padding-top: 0;
   overflow: hidden;
 }
@@ -88,7 +88,7 @@
       }
 
       &:focus {
-        border-color: #$border-1;
+        border-color: $border-1;
       }
     }
 
@@ -111,7 +111,7 @@
       }
 
       &:focus {
-        border-color: #$border-1;
+        border-color: $border-1;
       }
     }
   }
