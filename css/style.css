@@ -1310,7 +1310,7 @@ ol {
 }
 .pagination__option .arrow__pagination {
   font-size: 15px;
-  color: #ffffff;
+  color: #000000;
   display: inline-block;
   text-transform: uppercase;
 }
@@ -1325,7 +1325,7 @@ ol {
 }
 .pagination__option .number__pagination {
   font-size: 18px;
-  color: #ffffff;
+  color: #000000;
   height: 50px;
   width: 50px;
   background: rgba(242, 242, 242, 0.1);
